@@ -7,3 +7,10 @@ This is my first JavaScript project in Codex level 2 using Bun and Git. I create
 Why do programmers prefer dark mode?
 
 Because light attracts bugs. 🐛
+
+## Goals
+
+- Learn JavaScript
+- Build web projects
+- Become more confident using Git and GitHub
+- Use the terminal fluently
